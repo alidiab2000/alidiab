@@ -20,7 +20,7 @@
     <img src="./img/cpp.svg" alt="C++" width="45" height="45">
   </a> 
     &emsp;
-  <a href="https://https://docs.flutter.dev/"> 
+  <a href="https://docs.flutter.dev/"> 
     <img src="./img/flutter.png" alt=".NET" width="45" height="45">
   </a> 
   <a href="https://https://dart.dev/get-dart"> 
